@@ -9,4 +9,4 @@ Code for completing Amelia Wattenberger's Fullstack D3 book
 <kbd><img align="center" src="/scatterplot/scatterplot.png" width="200" align="center" /></kbd>
 
 2. Bar Graph
-<kbd><img align="center" src="/bargraph/bargraph" width="200" align="center" /></kbd>
+<kbd><img align="center" src="/bargraph/bargraph.png" width="200" align="center" /></kbd>
